@@ -1,0 +1,11 @@
+D:\Sample\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.deps.json
+D:\Sample\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.runtimeconfig.json
+D:\Sample\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.runtimeconfig.dev.json
+D:\Sample\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.dll
+D:\Sample\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.csprojAssemblyReference.cache
+D:\Sample\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.csproj.CoreCompileInputs.cache
+D:\Sample\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.AssemblyInfoInputs.cache
+D:\Sample\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.AssemblyInfo.cs
+D:\Sample\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.pdb
+D:\Sample\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.dll
+D:\Sample\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.pdb
